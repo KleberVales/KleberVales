@@ -1,3 +1,5 @@
+#Hi there, take a look at  my codes.
+
 - 👋 Hi, I’m Kleber Vales
 - 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning Software Engineer
