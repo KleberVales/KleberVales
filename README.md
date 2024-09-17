@@ -13,5 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klebervales)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/KleberVales/KleberVales/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/klebervales/klebervales/blob/output/github-contribution-grid-snake.svg)
