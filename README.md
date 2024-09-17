@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning Software Engineer
 - 💞️ I’m looking to collaborate on Java project
 - 📫 How to reach me ksd.campos@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My left foot is a little bigger than my right.
 
 <!---
 KleberVales/KleberVales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
