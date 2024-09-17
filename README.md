@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 **GitHub**
 
-![GitHub](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-github-default.png)
+![GitHub](https://raw.github.com/klebervales/github-contribution-color-graph/master/docs/contributions-github-default.png)
 
 
 
