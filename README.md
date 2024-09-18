@@ -17,14 +17,14 @@ You can click the Preview link to take a look at your changes.
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
-<p align="center">
+<center><p align="center">
     <a href="https://github.com/klebervales/klebervales"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/java/java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg"></a>
     <a href="https://github.com/klebervales/klebervales/graphs/contributors"><img src="https://img.shields.io/github/contributors/klebervales/klebervales?color=blue"></a>
     <a href="https://github.com/klebervales/klebervales/stargazers"><img src="https://img.shields.io/github/stars/klebervales/klebervales.svg?logo=github"></a>
     <a href="https://github.com/klebervales/klebervales/network/members"><img src="https://img.shields.io/github/forks/klebervales/klebervales.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=klebervales.klebervales" alt="visitors"/>   
-</p>
+</p></center>
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Kleber+Vales;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
