@@ -35,6 +35,19 @@ You can click the Preview link to take a look at your changes.
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
+<summary>Trophy: Hackerrank Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+
+<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+width="30%">
+
+</p>
+
+![badges_alura.png](src%2Fbadges_alura.png)
+
+
 
 
 
