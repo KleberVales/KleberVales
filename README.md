@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 width="30%">
 
 </p>
-
+### My courses
 ![badges_alura.png](src%2Fbadges_alura.png)
 
 ### 🏆 GitHub Trophies
