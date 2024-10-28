@@ -32,6 +32,10 @@ width="30%">
 
 ![badges_alura.png](src%2Fbadges_alura.png)
 
+### Oficial Badges
+![credly.png](src%2Fcredly.png)
+
+
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=klebervales)](https://github.com/ryo-ma/github-profile-trophy)
 
