@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Kleber+Vales;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Kleber+Vales;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
@@ -30,11 +30,15 @@ width="30%">
 
 </p>
 
-
 ![badges_alura.png](src%2Fbadges_alura.png)
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=klebervales)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+
+![src/footer.png](src/footer.png)
+
 
 
 
