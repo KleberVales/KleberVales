@@ -34,7 +34,7 @@ width="30%">
 
 ![badges_alura.png](src%2Fbadges_alura.png)
 
-### Licenças e Certificados
+### Licenses and Certificates
 ![credly.png](src%2Fcredly.png)
 
 
