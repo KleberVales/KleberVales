@@ -1,7 +1,5 @@
 ![src/header.png](src/header.png)
 
-- Contact me: Email ksd.campos@gmail.com | Whats: +55 13 98836-2352
-
 <!---
 KleberVales/KleberVales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
