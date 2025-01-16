@@ -30,6 +30,20 @@ You can click the Preview link to take a look at your changes.
     <!-- Add more badges similarly -->
 </div>
 
+# 🛢️ Database
+<!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
+<!-- Add more badges similarly -->
+<!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
+<!-- Add more badges similarly -->
+<!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
+<!-- Add more badges similarly -->
+<!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
+<!-- Add more badges similarly -->
+
 
 # 📈 GitHub Activity Graph:
 
