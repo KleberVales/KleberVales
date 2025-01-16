@@ -44,11 +44,11 @@ width="30%">
 
 ![badges_alura.png](src%2Fbadges_alura.png)
 
-### Licenses and Certificates
+# ✅ Licenses and Certificates
 ![credly.png](src%2Fcredly.png)
 
 
-### 🏆 GitHub Trophies
+# 🚀 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=klebervales)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Thanks+for+visiting)](https://git.io/typing-svg)
