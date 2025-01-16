@@ -31,18 +31,20 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # 🛢️ Database
-<!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
-<!-- Add more badges similarly -->
-<!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
-<!-- Add more badges similarly -->
-<!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
-<!-- Add more badges similarly -->
-<!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
-<!-- Add more badges similarly -->
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
+    <!-- Add more badges similarly -->
+  <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" />
+    <!-- Add more badges similarly -->
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/SQLite-000080?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" />
+    <!-- Add more badges similarly -->
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/PostgreSQL-836FFF?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
+    <!-- Add more badges similarly -->
+</div>
 
 
 # 📈 GitHub Activity Graph:
