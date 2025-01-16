@@ -15,7 +15,19 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Kleber+Vales;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+
+# 💻 Programming Languages
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+  <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
+    <!-- Add more badges similarly -->
+</div>
+
+
+# 📈 GitHub Activity Graph:
 
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
