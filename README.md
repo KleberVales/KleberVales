@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=KleberVales&theme=merko" alt="Kleber's Contribution Streak"/></td>
     </tr>
  </table>
 
