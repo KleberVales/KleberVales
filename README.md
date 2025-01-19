@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </div>
 
-# 🔧 Frameworks
+# 🔧 Tools
 <div align="center">
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
