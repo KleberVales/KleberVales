@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 📊 Github Stats
+## 📊 Github Stats
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--   GitHub stats graph -->
 
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 <div align="center">
     <!-- Replace with your skills -->
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
     <!-- Add more badges similarly -->
 </div>
 
-# 🛢️ Database
+## 🛢️ Database
 <div align="center">
     <!-- Replace with your skills -->
     <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
     <!-- Add more badges similarly -->
 </div>
 
-# ☁️ Cloud Technologies
+## ☁️ Cloud Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </div>
 
-# 🔧 Tools
+## 🔧 Tools
 <div align="center">
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph:
 
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
@@ -96,11 +96,11 @@ width="30%">
 
 ![badges_alura.png](src%2Fbadges_alura.png)
 
-# ✅ Licenses and Certificates
+## ✅ Licenses and Certificates
 ![credly.png](src%2Fcredly.png)
 
 
-# 🚀 GitHub Trophies
+## 🚀 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=klebervales)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Thanks+for+visiting)](https://git.io/typing-svg)
