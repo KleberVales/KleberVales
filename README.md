@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
-# 🏆 Hackerrank Profile Trophy
+## 🏆 Hackerrank Profile Trophy
 </div>
 
 <p align="center"> 
