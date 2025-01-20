@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔧 Tools: <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/> <img src="https://img.shields.io/badge/Eclipse-4FC08D?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse"/>
 
+<Br>
 ## 📈 GitHub Activity Graph:
 
 <!--   green snake -->
