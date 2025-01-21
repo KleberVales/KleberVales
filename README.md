@@ -44,6 +44,8 @@ You can click the Preview link to take a look at your changes.
 <!--   green snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
+<br>
+
 ## 🏆 Hackerrank Profile Trophy
 </div>
 
@@ -56,8 +58,12 @@ width="30%">
 
 ![badges_alura.png](src%2Fbadges_alura.png)
 
+<br>
+
 ## ✅ Licenses and Certificates
 ![credly.png](src%2Fcredly.png)
+
+<br>
 
 
 ## 🚀 GitHub Trophies
