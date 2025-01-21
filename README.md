@@ -30,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 
 <!--   GitHub stats graph -->
 
-<br>
 
 ### 💻 Programming Languages: <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black" alt="Python" />
 
