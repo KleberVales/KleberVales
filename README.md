@@ -18,8 +18,6 @@ Hello! I'm Kleber Vales, a Java Developer Analyst focused on back-end and system
 
 Welcome to my profile! 🚀
 
-
-
 ## 📊 Github Stats
 <p>Follow my journey on GitHub: commits, projects, most used languages ​​and key moments in my professional development!</p>
  <table align="center" width="100%" height="100%" >
@@ -57,14 +55,16 @@ Welcome to my profile! 🚀
 <br>
 
 ## 🏆 Hackerrank Profile Trophy
-</div>
 
 <p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
+  <a href="https://www.hackerrank.com/klebervales" target="_blank">
+    <img src="./src/badges_hackerrank.png" alt="Hackerrank Badges" width="57%">
+  </a>
+  <a href="https://www.hackerrank.com/klebervales" target="_blank">
+    <img src="./src/hackerrank-logo.jpg" alt="Hackerrank Logo" width="30%">
+  </a>
 </p>
+
 
 ![badges_alura.png](src%2Fbadges_alura.png)
 
