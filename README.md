@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 
 <!--   GitHub stats graph -->
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Olá! Sou o Kleber Vales, Analista Desenvolvedor Java Pleno com foco em back-end e arquitetura de sistemas. Tenho experiência com Java, Spring Boot, MySQL e microserviços. Estou sempre buscando evoluir com boas práticas, DevOps e cloud.
+Hello! I'm Kleber Vales, a Java Developer Analyst focused on back-end and systems architecture. I have experience with Java, Spring Boot, MySQL and microservices. I'm always looking to evolve with best practices, DevOps and cloud.
 
-Seja bem-vindo ao meu perfil! 🚀
+Welcome to my profile! 🚀
 
 
 
