@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📊 Github Stats
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+<p>Follow my journey on GitHub: commits, projects, most used languages ​​and key moments in my professional development!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>   
