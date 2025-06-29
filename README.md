@@ -68,12 +68,11 @@ Welcome to my profile! 🚀
 
 ![badges_alura.png](src%2Fbadges_alura.png)
 
-<br>
-
 ## ✅ Licenses and Certificates
-![credly.png](src%2Fcredly.png)
 
-<br>
+[![Credly Certificates](src/credly.png)](https://www.credly.com/users/kleber-vales)  
+👉 Veja minhas certificações completas no [Credly](https://www.credly.com/users/kleber-vales)
+
 
 
 ## 🚀 GitHub Trophies
