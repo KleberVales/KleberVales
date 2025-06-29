@@ -73,7 +73,7 @@ Welcome to my profile! 🚀
 ## ✅ Licenses and Certificates
 
 [![Credly Certificates](src/credly.png)](https://www.credly.com/users/kleber-vales)  
-👉 Veja minhas certificações completas no [Credly](https://www.credly.com/users/kleber-vales)
+👉 See my complete certifications at [Credly](https://www.credly.com/users/kleber-vales)
 
 <br>
 
