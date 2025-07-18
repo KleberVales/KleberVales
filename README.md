@@ -47,7 +47,9 @@ Welcome to my profile! 🚀
 ---
 
 ### 💻 Programming Languages  
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" /> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java" />
+
+
 
 
 ### 🛢️ Databases  
