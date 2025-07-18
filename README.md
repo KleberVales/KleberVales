@@ -50,7 +50,7 @@ Welcome to my profile! 🚀
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
 
 ### 🛢️ Databases  
-<img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-000080?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/PostgreSQL-836FFF?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-000080?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> 
 
 ### ☁️ Cloud Technologies  
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
