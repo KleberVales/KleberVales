@@ -47,7 +47,8 @@ Welcome to my profile! 🚀
 ---
 
 ### 💻 Programming Languages  
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=Python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" />
+
 
 ### 🛢️ Databases  
 <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-000080?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> 
