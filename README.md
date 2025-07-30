@@ -47,9 +47,7 @@ Welcome to my profile! 🚀
 ---
 
 ### 💻 Programming Languages  
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin" />
 
 
 ### 🛢️ Databases  
