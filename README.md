@@ -56,7 +56,7 @@ Welcome to my profile! 🚀
 <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-000080?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> 
 
 ### 📡 Mensageria e Comunicação
-<!-- Apache Kafka --> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white" alt="Apache Kafka" /> <!-- RESTful APIs --> <img src="https://img.shields.io/badge/RESTful_APIs-6E6E6E?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/RESTful_APIs-6E6E6E?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
 
 
 ### ☁️ Cloud Technologies  
