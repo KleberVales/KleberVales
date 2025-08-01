@@ -63,7 +63,8 @@ Welcome to my profile! 🚀
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
 
 ### 📋 Project Management
-<img src="https://img.shields.io/badge/PMBOK_(PMI)-026E82?style=for-the-badge&logo=BookStack&logoColor=white" alt="PMBOK (PMI)" />
+<img src="https://img.shields.io/badge/PMBOK_(PMI)-026E82?style=for-the-badge&logo=BookStack&logoColor=white" alt="PMBOK (PMI)" /> <img src="https://img.shields.io/badge/🌀_Scrum_Framework-6DB33F?style=for-the-badge" alt="Scrum Framework" />
+
 
 
 ---
