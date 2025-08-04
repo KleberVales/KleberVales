@@ -12,9 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨‍💻 About Me
 
-Hello! I'm Kleber Vales, a Java Developer Analyst focused on back-end and systems architecture.  
-I have experience with Java, Spring Boot, MySQL, and microservices.  
-I'm always striving to evolve with best practices, DevOps, and cloud technologies.  
+Hello! I'm Kleber Vales, a back-end software engineer with over 5 years of experience developing comprehensive applications with modern tools and implementing continuous improvements. I have a strong background in computer science, reinforced by an MBA in web software development. Check out my stacks below. 
 
 Welcome to my profile! 🚀
 
