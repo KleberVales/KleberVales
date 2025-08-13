@@ -104,9 +104,6 @@ Welcome to my profile! 🚀
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=klebervales)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-📅 Última atualização: 01 de agosto de 2025
 
 ---
 
