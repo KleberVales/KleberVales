@@ -78,9 +78,13 @@ Welcome to my profile! 🚀
 
 ## 🎓 Academic Background
 
-<img src="src/ciencia_da_computacaopng.png" width="320" height="305">
+<a href="#">
+  <img src="src/ciencia_da_computacaopng.png" width="320" height="305">
+</a>
+<a href="#">
+  <img src="src/mba_desenvolvimento_software.png" width="320" height="305">
+</a>
 
----
 
 ## 🏆 HackerRank Profile Trophy
 
