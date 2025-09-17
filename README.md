@@ -82,7 +82,7 @@ Welcome to my profile! 🚀
   <img src="src/ciencia_da_computacaopng.png" width="320" height="305">
 </a>
 <a href="#">
-  <img src="src/mba.png" width="320" height="305">
+  <img src="src/mba2.png" width="320" height="305">
 </a>
 
 
