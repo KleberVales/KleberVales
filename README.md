@@ -76,6 +76,10 @@ Welcome to my profile! 🚀
 
 ---
 
+## 🎓 Academic Background
+
+---
+
 ## 🏆 HackerRank Profile Trophy
 
 <p align="center"> 
