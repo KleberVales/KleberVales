@@ -78,7 +78,7 @@ Welcome to my profile! 🚀
 
 ## 🎓 Academic Background
 
-<img src="src/ciencia_da_computacao.png" width="320" height="305">
+<img src="src/ciencia_da_computacaopng.png" width="320" height="305">
 
 ---
 
