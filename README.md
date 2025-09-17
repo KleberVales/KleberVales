@@ -72,15 +72,8 @@ Welcome to my profile! 🚀
 
 ## 🎓 Academic Background
 
-<a href="#">
-  <img src="src/ciencia_da_computacaopng.png" width="320" height="305">
-</a>
-<a href="#">
-  <img src="src/mba2.png" width="320" height="305">
-</a>
-<a href="#">
-  <img src="src/bootcamp_java.png" width="320" height="305">
-</a>
+- **Bachelor’s in Computer Science** – Universidade XXX  
+- **MBA in Web Software Development** – Universidade YYY
 
 ---
 
