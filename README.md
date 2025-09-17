@@ -78,6 +78,8 @@ Welcome to my profile! 🚀
 
 ## 🎓 Academic Background
 
+<img src="src/ciencia_da_computacao.png" width="320" height="305">
+
 ---
 
 ## 🏆 HackerRank Profile Trophy
