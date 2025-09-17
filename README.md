@@ -107,6 +107,8 @@ Welcome to my profile! 🚀
 
 <br>
 
+<br>
+
 👉 See all my certifications on [**Credly**](https://www.credly.com/users/kleber-vales)
 
 
