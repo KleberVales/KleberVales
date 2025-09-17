@@ -101,7 +101,7 @@ Welcome to my profile! 🚀
 <a href="https://www.credly.com/users/kleber-vales">
   <img src="src/mtaa.png" width="320" height="305">
 </a>
-<a href="https://www.credly.com/users/kleber-vales">
+<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1103787">
   <img src="src/certificacao-scrum.png" width="320" height="305">
 </a>
 
