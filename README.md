@@ -70,12 +70,6 @@ Welcome to my profile! 🚀
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎓 Academic Background
 
 <a href="#">
@@ -139,5 +133,13 @@ Welcome to my profile! 🚀
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+
+---
+
+## 📈 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
+---
 
 ![src/footer.png](src/footer.png)
