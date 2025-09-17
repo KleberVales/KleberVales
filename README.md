@@ -88,18 +88,6 @@ Welcome to my profile! 🚀
   <img src="src/bootcamp_java.png" width="320" height="305">
 </a>
 
-
-## 🏆 HackerRank Profile Trophy
-
-<p align="center"> 
-  <a href="https://www.hackerrank.com/klebervales" target="_blank" rel="noopener noreferrer">
-    <img src="./src/badges_hackerrank.png" alt="HackerRank Badges" width="57%">
-  </a>
-  <a href="https://www.hackerrank.com/klebervales" target="_blank" rel="noopener noreferrer">
-    <img src="./src/hackerrank-logo.jpg" alt="HackerRank Logo" width="30%">
-  </a>
-</p>
-
 ---
 
 ## 📚 Courses and Improvements
@@ -127,6 +115,20 @@ Welcome to my profile! 🚀
 👉 See all my certifications on [**Credly**](https://www.credly.com/users/kleber-vales)
 
 
+
+---
+
+
+## 🏆 HackerRank Profile Trophy
+
+<p align="center"> 
+  <a href="https://www.hackerrank.com/klebervales" target="_blank" rel="noopener noreferrer">
+    <img src="./src/badges_hackerrank.png" alt="HackerRank Badges" width="57%">
+  </a>
+  <a href="https://www.hackerrank.com/klebervales" target="_blank" rel="noopener noreferrer">
+    <img src="./src/hackerrank-logo.jpg" alt="HackerRank Logo" width="30%">
+  </a>
+</p>
 
 ---
 
