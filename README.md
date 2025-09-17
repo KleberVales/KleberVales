@@ -81,7 +81,7 @@ Welcome to my profile! 🚀
 
 ---
 
-## 📚 Courses and Improvements
+## 📘 Courses and Improvements
 
 ![badges_alura.png](src/badges_alura.png)
 
