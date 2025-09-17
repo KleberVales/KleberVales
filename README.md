@@ -104,7 +104,8 @@ Welcome to my profile! 🚀
 <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1103787">
   <img src="src/certificacao-scrum.png" width="320" height="305">
 </a>
-👉 See all my certifications on [Credly](https://www.credly.com/users/kleber-vales)
+👉 See all my certifications on [**Credly**](https://www.credly.com/users/kleber-vales)
+
 
 ---
 
