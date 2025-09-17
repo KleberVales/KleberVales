@@ -102,7 +102,7 @@ Welcome to my profile! 🚀
   <img src="src/mtaa.png" width="320" height="305">
 </a>
 <a href="https://www.credly.com/users/kleber-vales">
-  <img src="src/scrum2.png" width="120" height="120">
+  <img src="src/certificacao-scrum.png" width="320" height="305">
 </a>
 
 👉 See all my certifications on [Credly](https://www.credly.com/users/kleber-vales)
