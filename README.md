@@ -70,10 +70,14 @@ Welcome to my profile! 🚀
 
 ---
 
-## 🎓 Academic Background
+## 🎓 Academic Background  
 
 - **Bachelor’s in Computer Science** – Focus on *Java Development, Artificial Intelligence, Cloud Computing, and Operating Systems*  
 - **MBA in Web Software Development** – Focus on *Microservices Architecture and Generative AI*  
+
+## 📚 Specializations & Bootcamps  
+
+- **BootCamp Java com Spring Boot** – Focus on *Spring Framework, JUnit 5, and Security*  
 
 ---
 
