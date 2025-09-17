@@ -96,6 +96,7 @@ Welcome to my profile! 🚀
 ## ✅ Licenses and Certificates
 
 [![Credly Certificates](src/credly.png)](https://www.credly.com/users/kleber-vales)  
+[![Credly Certificates](src/java.png)](https://www.credly.com/users/kleber-vales)
 👉 See all my certifications on [Credly](https://www.credly.com/users/kleber-vales)
 
 ---
