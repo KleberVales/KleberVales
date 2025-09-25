@@ -16,8 +16,8 @@ Hello! I'm Kleber Vales, a back-end software engineer with over 5 years of exper
 
 🏆**Java Certified** 🏆**Microsoft Certified** 🏆**Scrum Certified**
 
-🎓 Bachelor's Degree in Computer Science  
-🎓 MBA in Web Software Development 
+### 🎓 Bachelor's Degree in Computer Science  
+### 🎓 MBA in Web Software Development 
 
 Welcome to my profile! 🚀
 
