@@ -98,10 +98,7 @@ Welcome to my profile! 🚀
 
 👉 See all my certifications on [**Credly**](https://www.credly.com/users/kleber-vales)
 
-
-
 ---
-
 
 ## 🏆 HackerRank Profile Trophy
 
