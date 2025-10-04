@@ -72,8 +72,6 @@ Welcome to my profile! 🚀
 ### 📋 Project Management
 <img src="https://img.shields.io/badge/PMBOK_(PMI)-026E82?style=for-the-badge&logo=BookStack&logoColor=white" alt="PMBOK (PMI)" /> <img src="https://img.shields.io/badge/🌀_Scrum_Framework-6DB33F?style=for-the-badge" alt="Scrum Framework" />
 
-
-
 ---
 
 ## 📚 Courses and Improvements
