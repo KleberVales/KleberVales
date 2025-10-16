@@ -130,3 +130,5 @@ Welcome to my profile! 🚀
 ---
 
 ![src/footer.png](src/footer.png)
+
+<br>
