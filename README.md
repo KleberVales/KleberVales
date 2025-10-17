@@ -72,6 +72,7 @@ Welcome to my profile! 🚀
 ### 🎨 Design Patterns
 <img src="https://img.shields.io/badge/Dependency%20Injection-026E82?style=for-the-badge&logo=spring&logoColor=white" alt="Dependency Injection" /> <img src="https://img.shields.io/badge/Singleton%20Pattern-367D89?style=for-the-badge&logo=apache&logoColor=white" alt="Singleton Pattern" /> <img src="https://img.shields.io/badge/Factory%20Method%20Pattern-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="Factory Method Pattern" /> <img src="https://img.shields.io/badge/Observer%20Pattern-FF9800?style=for-the-badge&logo=ReactiveX&logoColor=white" alt="Observer Pattern" /> <img src="https://img.shields.io/badge/Repository%20Pattern-3F51B5?style=for-the-badge&logo=java&logoColor=white" alt="Repository Pattern" />
 
+
 ### 📋 Project Management
 <img src="https://img.shields.io/badge/PMBOK_(PMI)-026E82?style=for-the-badge&logo=BookStack&logoColor=white" alt="PMBOK (PMI)" /> <img src="https://img.shields.io/badge/🌀_Scrum_Framework-6DB33F?style=for-the-badge" alt="Scrum Framework" />
 
