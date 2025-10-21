@@ -98,7 +98,9 @@ Welcome to my profile! 🚀
   <img src="src/certificacao-scrum.png" width="320" height="305">
 </a>
 
+
 <br>
+
 
 <br>
 
