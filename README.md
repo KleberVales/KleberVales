@@ -93,7 +93,7 @@ Welcome to my profile! 🚀
   <img src="src/certificacao-scrum.png" width="320" height="305">
 </a>
 <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1103787">
-  <img src="src/certificacao-scrum.png" width="320" height="305">
+  <img src="src/Captura de tela 2025-10-30 102751.png" width="320" height="305">
 </a>
 
 <br>
