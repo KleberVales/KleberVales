@@ -93,7 +93,7 @@ Welcome to my profile! 🚀
 <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1103787">
   <img src="src/certificacao-scrum.png" width="320" height="305">
 </a>
-<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1103787">
+<a href="https://brm-certview.oracle.com/ords/certview/ScoreReport?ssn=OC1564425&registrationID=asx-00c0a95b-61e5-49e4-839d-d8402b8754af">
   <img src="src/Captura de tela 2025-10-30 102751.png" width="320" height="305">
 </a>
 
