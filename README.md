@@ -82,28 +82,6 @@ Welcome to my profile! 🚀
 
 ---
 
-## ✅ Licenses and Certificates
-
-<a href="https://www.credly.com/users/kleber-vales">
-  <img src="src/java.png" width="320" height="305">
-</a>
-<a href="https://www.credly.com/users/kleber-vales">
-  <img src="src/mtaa.png" width="320" height="305">
-</a>
-<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1103787">
-  <img src="src/certificacao-scrum.png" width="320" height="305">
-</a>
-<a href="https://brm-certview.oracle.com/ords/certview/ScoreReport?ssn=OC1564425&registrationID=asx-00c0a95b-61e5-49e4-839d-d8402b8754af">
-  <img src="src/cert.png" width="320" height="305">
-</a>
-
-<br>
-
-<br>
-
-👉 See all my certifications on [**Credly**](https://www.credly.com/users/kleber-vales)
-
----
 
 ## 🏆 HackerRank Profile Trophy
 
