@@ -32,12 +32,6 @@ Hello!  I'm Kleber Vales, Back-end Software Engineer with solid experience in mo
 
 <table align="center" width="100%" height="100%">
   <tr>
-    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>   
-  </tr>
-</table>
-
-<table align="center" width="100%" height="100%">
-  <tr>
     <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
     <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=klebervales&theme=github_dark&utcOffset=10" alt="Kleber's GitHub Stats"/></td>
     <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
