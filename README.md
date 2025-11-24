@@ -29,7 +29,6 @@ Welcome to my profile! 🚀
 <p>Follow my journey on GitHub: commits, projects, most used languages, and key moments in my professional development!</p>
 
 <details>
-<summary>Click to expand GitHub Stats 📈</summary>
 
 <table align="center" width="100%" height="100%">
   <tr>
