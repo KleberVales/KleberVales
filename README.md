@@ -20,7 +20,7 @@ Hello!  I'm Kleber Vales, Back-end Software Engineer with solid experience in mo
 ### 🎓 MBA in Web Software Development 
 
 <br>
-Welcome to my profile! 🚀
+**Welcome to my profile! 🚀**
 
 ---
 
@@ -28,9 +28,6 @@ Welcome to my profile! 🚀
 
 <p>Follow my journey on GitHub: commits, projects, most used languages, and key moments in my professional development!</p>
 
-
-
-<details><summary>Click to expand GitHub Stats 📈</summary>
 
 <table align="center" width="100%" height="100%">
   <tr>
@@ -46,10 +43,6 @@ Welcome to my profile! 🚀
     <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
   </tr>
 </table>
-
-
-</details>
-
 
 ---
 
