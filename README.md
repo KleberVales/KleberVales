@@ -172,6 +172,8 @@ Welcome to my profile! 🚀
 </body>
 </html>
 
+</details>
+
 
 ---
 
