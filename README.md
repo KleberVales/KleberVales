@@ -32,145 +32,21 @@ Welcome to my profile! 🚀
 
 <details><summary>Click to expand GitHub Stats 📈</summary>
 
-<!doctype html>
-<html lang="pt-BR">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>GitHub Card — sem "tempo no GitHub"</title>
-  <style>
-    :root{--bg:#0b1220;--card:#0f1724;--muted:#94a3b8;--accent:#2dd4bf}
-    html,body{height:100%;margin:0;font-family:Inter,system-ui,Arial;background:linear-gradient(180deg,#071024 0%, #081127 100%);display:grid;place-items:center;color:#e6eef6}
-    .card{width:420px;padding:20px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 8px 30px rgba(2,6,23,0.6);border-radius:14px;border:1px solid rgba(255,255,255,0.03)}
-    .header{display:flex;gap:14px;align-items:center}
-    .avatar{width:72px;height:72px;border-radius:12px;flex:0 0 72px;background:#071024;overflow:hidden}
-    .avatar img{width:100%;height:100%;object-fit:cover}
-    .meta{flex:1}
-    .name{font-size:18px;font-weight:700}
-    .login{color:var(--muted);font-size:13px;margin-top:4px}
-    .bio{margin-top:12px;color:var(--muted);font-size:13px}
-    .stats{display:flex;gap:10px;margin-top:16px}
-    .stat{flex:1;background:rgba(255,255,255,0.02);padding:12px;border-radius:10px;text-align:center}
-    .stat .num{font-weight:700;font-size:16px}
-    .stat .label{font-size:12px;color:var(--muted);margin-top:6px}
-    .actions{display:flex;gap:8px;margin-top:16px}
-    .btn{flex:1;padding:10px;border-radius:10px;border:0;background:transparent;color:var(--accent);cursor:pointer;font-weight:600}
-    .small{font-size:12px;color:var(--muted);margin-top:8px;text-align:center}
-    .inputRow{display:flex;gap:8px;margin-bottom:12px}
-    .inputRow input{flex:1;padding:8px;border-radius:8px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit}
-    .spinner{width:18px;height:18px;border:2px solid rgba(255,255,255,0.08);border-top-color:var(--accent);border-radius:50%;animation:spin 1s linear infinite}
-    @keyframes spin{to{transform:rotate(360deg)}}
-    .error{color:#ffb4b4;background:rgba(255,180,180,0.05);padding:8px;border-radius:8px;margin-top:10px;font-size:13px}
-  </style>
-</head>
-<body>
-  <div class="card" id="card">
-    <div class="inputRow">
-      <input id="username" placeholder="Informe o usuário (ex: klebervales)" value="klebervales" />
-      <button class="btn" id="loadBtn">Carregar</button>
-    </div>
+<table align="center" width="100%" height="100%">
+  <tr>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>   
+  </tr>
+</table>
 
-    <div id="content">
-      <div class="header">
-        <div class="avatar" id="avatar"><img src="" alt="avatar" /></div>
-        <div class="meta">
-          <div class="name" id="name">—</div>
-          <div class="login" id="login">@—</div>
-        </div>
-      </div>
+<table align="center" width="100%" height="100%">
+  <tr>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=klebervales&theme=github_dark&utcOffset=10" alt="Kleber's GitHub Stats"/></td>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
+    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
+  </tr>
+</table>
 
-      <div class="bio" id="bio">Perfil GitHub</div>
-
-      <div class="stats">
-        <div class="stat">
-          <div class="num" id="repos">—</div>
-          <div class="label">Repositórios públicos</div>
-        </div>
-        <div class="stat">
-          <div class="num" id="followers">—</div>
-          <div class="label">Seguidores</div>
-        </div>
-        <div class="stat">
-          <div class="num" id="stars">—</div>
-          <div class="label">Estrelas totais</div>
-        </div>
-      </div>
-
-      <div class="actions">
-        <button class="btn" id="viewProfile">Ver no GitHub</button>
-        <button class="btn" id="refresh">Atualizar</button>
-      </div>
-
-      <div class="small">Este cartão NÃO exibe há quanto tempo você está no GitHub (data de criação omitida).</div>
-      <div id="error" style="display:none" class="error"></div>
-    </div>
-  </div>
-
-  <script>
-    const el = id => document.getElementById(id)
-    const usernameInput = el('username')
-    const loadBtn = el('loadBtn')
-    const avatarImg = el('avatar').querySelector('img')
-    const nameEl = el('name'), loginEl = el('login'), bioEl = el('bio')
-    const reposEl = el('repos'), followersEl = el('followers'), starsEl = el('stars')
-    const viewBtn = el('viewProfile'), refreshBtn = el('refresh'), errorEl = el('error')
-
-    async function fetchUser(user){
-      const userRes = await fetch(`https://api.github.com/users/${user}`)
-      if(!userRes.ok) throw new Error('Usuário não encontrado')
-      return userRes.json()
-    }
-
-    async function fetchRepos(user, page=1, per_page=100){
-      const res = await fetch(`https://api.github.com/users/${user}/repos?per_page=${per_page}&page=${page}`)
-      if(!res.ok) throw new Error('Erro ao buscar repositórios')
-      return res.json()
-    }
-
-    async function load(user){
-      errorEl.style.display='none'
-      // show spinner on load button
-      loadBtn.disabled=true
-      const orig = loadBtn.textContent
-      loadBtn.innerHTML = '<span class="spinner"></span>'
-      try{
-        const u = await fetchUser(user)
-        avatarImg.src = u.avatar_url
-        nameEl.textContent = u.name || u.login
-        loginEl.textContent = '@' + u.login
-        bioEl.textContent = u.bio || '—'
-        reposEl.textContent = u.public_repos
-        followersEl.textContent = u.followers
-
-        // sum stars (first 300 repos, 3 pages of 100)
-        let totalStars = 0
-        for(let p=1;p<=3;p++){
-          const r = await fetchRepos(user,p)
-          if(r.length===0) break
-          totalStars += r.reduce((s,repo)=>s+ (repo.stargazers_count||0),0)
-          if(r.length < 100) break
-        }
-        starsEl.textContent = totalStars
-
-        viewBtn.onclick = ()=> window.open(u.html_url,'_blank')
-
-      }catch(err){
-        errorEl.style.display='block'
-        errorEl.textContent = err.message
-      }finally{
-        loadBtn.disabled=false
-        loadBtn.textContent = orig
-      }
-    }
-
-    loadBtn.addEventListener('click', ()=> load(usernameInput.value.trim()||'klebervales'))
-    refreshBtn.addEventListener('click', ()=> load(usernameInput.value.trim()||'klebervales'))
-
-    // load default
-    load(usernameInput.value.trim())
-  </script>
-</body>
-</html>
 
 </details>
 
