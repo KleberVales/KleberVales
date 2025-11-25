@@ -21,8 +21,6 @@ Hello!  I'm Kleber Vales, Back-end Software Engineer with solid experience in mo
 
 <br>
 
-**Welcome to my profile!** 🚀
-
 ---
 
 ## 📊 GitHub Stats
