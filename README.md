@@ -16,7 +16,7 @@ Hello!  I'm Kleber Vales, Back-end Software Engineer with solid experience in mo
 
 🏆**OCA: Java SE 7 Programmer** 
 
-🏆**MTA: Software Development** 
+🏆** Microsoft MTA: Software Development** 
 
 🏆**Scrum Certified**
 
