@@ -16,7 +16,7 @@ Hello!  I'm Kleber Vales, Back-end Software Engineer with solid experience in mo
 
 🏆**Oracle Certified Associate - Java SE 7 Programmer** 
 
-🏆**Microsoft Tecnology Associate - Software Development** 
+🏆**Microsoft Technology Associate - Software Development** 
 
 🏆**Scrum Fundamentals Certified (SFC™)**
 
