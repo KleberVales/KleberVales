@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨‍💻 About Me
 
-Hello!  I'm Kleber Vales, Back-end Software Engineer with solid experience in modern software development. I specialize in building robust, scalable, and efficient applications, applying best practices and leveraging up-to-date technologies to deliver high-quality solutions. Passionate about problem-solving and system design, I enjoy working on projects that combine technical challenges with real-world impact. 
+Hello!  I'm Kleber Vales, Java & Spring Software Engineer with solid experience in modern software development. I specialize in building robust, scalable, and efficient applications, applying best practices and leveraging up-to-date technologies to deliver high-quality solutions. Passionate about problem-solving and system design, I enjoy working on projects that combine technical challenges with real-world impact. 
 
 🏆**Oracle Certified Associate - Java SE 7 Programmer** 
 
