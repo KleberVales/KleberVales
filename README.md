@@ -83,8 +83,11 @@ Hello!  I'm Kleber Vales, Java & Spring Software Engineer with solid experience 
 
 ![badges_alura.png](src/badges_alura.png)
 
+<br>
+
 ---
 
+<br>
 
 ## 🏆 HackerRank Profile Trophy
 
