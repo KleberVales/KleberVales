@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨‍💻 About Me
 
-I work building backend systems using Java, Spring Boot, and other technologies that are part of modern backend environments. I also apply DevOps concepts and tools such as Git/GitHub, Docker, and Kubernetes to support automation, scalability, and reliable deployments.
+👉 Hi 👋 I'm *Kleber Santos dos Vales*, I work building backend systems using Java, Spring Boot, and other technologies that are part of modern backend environments. I also apply DevOps concepts and tools such as Git/GitHub, Docker, and Kubernetes to support automation, scalability, and reliable deployments.
 
 Recently, I obtained a professional certification in Generative AI, which allowed me to deepen my understanding of how Large Language Models (LLMs) can be applied to intelligent systems. Another area I have been strongly focusing on is Cloud Computing, where I design and develop cloud-native systems by applying modern architectural practices, DevOps principles, and scalable infrastructure patterns.
 
