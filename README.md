@@ -100,7 +100,11 @@ Hello!  I'm Kleber Vales, Java & Spring Software Engineer with solid experience 
   </a>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 ## 🚀 GitHub Trophies
 
