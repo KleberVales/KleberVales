@@ -124,7 +124,12 @@ Hello!  I'm Kleber Vales, Java & Spring Software Engineer with solid experience 
 
 ---
 
+<br>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+
+<br>
 
 ---
 <br>
