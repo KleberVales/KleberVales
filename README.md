@@ -110,7 +110,11 @@ Hello!  I'm Kleber Vales, Java & Spring Software Engineer with solid experience 
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=klebervales)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
+
 ---
+
+<br>
 
 ## 📈 GitHub Contribution Graph
 
