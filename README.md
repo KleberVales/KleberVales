@@ -23,13 +23,6 @@ Hello!  I'm Kleber Vales, Java & Spring Software Engineer with solid experience 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
 
-
-
-
-
-
-
-
 <br>
 
 ---
