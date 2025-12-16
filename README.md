@@ -27,6 +27,9 @@ Hello!  I'm Kleber Vales, Java & Spring Software Engineer with solid experience 
 
 ---
 
+<br>
+
+
 ## 📊 GitHub Stats
 
 <p>Follow my journey on GitHub: commits, projects, most used languages, and key moments in my professional development!</p>
