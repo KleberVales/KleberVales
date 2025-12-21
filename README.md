@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4b0082&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Kleber+Vales;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
+<br>
+
 ## 👨‍💻 About Me
 
 👉 Hi 👋 I'm *Kleber Santos dos Vales*, I work building backend systems using Java, Spring Boot, and other technologies that are part of modern backend environments. I also apply DevOps concepts and tools such as Git/GitHub, Docker, and Kubernetes to support automation, scalability, and reliable deployments.
