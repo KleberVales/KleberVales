@@ -35,6 +35,8 @@ I have been delving into the world of artificial intelligence, obtaining a profe
 
 ## 📊 GitHub Stats
 
+<br>
+
 <p>Follow my journey on GitHub: commits, projects, most used languages, and key moments in my professional development!</p>
 
 
