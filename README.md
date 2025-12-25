@@ -45,8 +45,6 @@ I have been delving into the world of artificial intelligence, obtaining a profe
 <p>Follow my journey on GitHub: commits, projects, most used languages, and key moments in my professional development!</p>
 
 
-br
-
 <table align="center" width="100%" height="100%">
   <tr>
     <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
