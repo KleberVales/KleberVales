@@ -84,13 +84,21 @@ I have been delving into the world of artificial intelligence, obtaining a profe
 
 </div>
 
+<div align="center">
 
 
 ### 🧩 Frameworks 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" /> <!-- JavaFX --> <img src="https://img.shields.io/badge/JavaFX-1C2833?style=for-the-badge&logo=OpenJFX&logoColor=white" alt="JavaFX" /> <!-- JUnit --> <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit" /> <!-- Mockito --> <img src="https://img.shields.io/badge/Mockito-45C6B0?style=for-the-badge&logo=Mockito&logoColor=white" alt="Mockito" /> <!-- React --> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB" alt="React" />
 
+</div>
+
+<div align="center">
+
 ### 🛢️ Databases  
 <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-000080?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> 
+
+</div>
+
 
 ### 📡 Messaging and Communication
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white" alt="Apache Kafka" /> <img src="https://img.shields.io/badge/RESTful_APIs-6E6E6E?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" /> <img src="https://img.shields.io/badge/AWS_SDK_for_Java-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SDK for Java" />
