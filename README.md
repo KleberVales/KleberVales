@@ -60,6 +60,8 @@ I have been delving into the world of artificial intelligence, obtaining a profe
 
 ---
 
+## 🏗️ Software Engineering Stack
+
 <br>
 
 <div align="center">
