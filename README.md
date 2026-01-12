@@ -38,24 +38,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## 📊 GitHub Stats
-
-<br>
-
-<p>Follow my journey on GitHub: commits, projects, most used languages, and key moments in my professional development!</p>
-
-
-<table align="center" width="100%" height="100%">
-  <tr>
-    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
-    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=klebervales&theme=github_dark&utcOffset=10" alt="Kleber's GitHub Stats"/></td>
-    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
-    <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=klebervales&theme=github_dark" alt="Kleber's GitHub Stats"/></td>
-  </tr>
-</table>
-
-<br>
-
 ---
 
 ## 🏗️ Software Engineering Stack
