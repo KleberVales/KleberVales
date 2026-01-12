@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=KleberVales&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/KleberVales?label=Followers&style=flat" />
   <img src="https://img.shields.io/badge/Apps-12-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=flat" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-success?style=flat" />
 </p>
 
 
