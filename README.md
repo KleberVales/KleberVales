@@ -147,10 +147,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
----
-
-<br>
-
 ## 📈 GitHub Contribution Graph
 
 ![GitHub Activity Graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
