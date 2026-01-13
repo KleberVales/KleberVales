@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-👉 Hi 👋 I'm *Kleber Santos dos Vales*, I work building backend systems using Java, Spring Boot, and other technologies that are part of modern backend environments. I also apply DevOps concepts and tools such as Git/GitHub, Docker, and Kubernetes to support automation, scalability, and reliable deployments.
+👋 Hi, I'm Kleber Santos dos Vales, a software engineer passionate about building robust backend systems with Java and Spring Boot, applying modern DevOps practices to streamline automation, scalability, and reliability. I leverage tools like Git/GitHub, Docker, and Kubernetes to enable efficient CI/CD pipelines and cloud-native deployments. My work extends into Cloud Computing, designing architectures that balance performance and resilience, while also exploring the potential of Generative AI to enhance developer productivity and create intelligent solutions. With a strong foundation in Software Engineering, I strive to deliver systems that are not only technically sound but also aligned with business goals and user needs.
 
 🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
