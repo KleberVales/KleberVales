@@ -43,6 +43,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ---
+
+| <div align="center"> <br> <br> 🏙️ **BOOKSTORE MANAGER** <br> <br> Enterprise Book Inventory & Search System </div> <hr> A robust Java-based bookstore application designed to manage book inventory and provide fast, intuitive title searches. Built with a solid object-oriented architecture and relational database support.<br><br> • 🛒 Real-time cart synchronization across devices<br>• 📦 Distributed inventory management <br><br> <div align="center"> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) </div> | |
+|:--- |:--- |
+
+
+---
 <br>
 
 ## 🏗️ Software Engineering Stack
