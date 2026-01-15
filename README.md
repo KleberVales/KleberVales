@@ -45,18 +45,11 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <br>
-|        🏙️ PLENTI                |                                                                                                                                            |                                    |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-🏙️ PLENTI
-Hyper-Scale E-Commerce Superapp
 
-A colossal Spring Boot + Flutter ecosystem handling 50,000+ SKUs. Features:
 
-🛒 Real-time cart synchronization across devices
-📦 Distributed inventory management
-💳 Multi-gateway payment processing
-🚚 Live order tracking with driver assignment
-👥 Role-based access (Admin, Vendor, Customer)
-🔔 Push notifications & in-app messaging
+|                                                                                              |                                                                                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                               |                                                                                       |
    
 
 
