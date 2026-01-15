@@ -47,9 +47,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-| 🏙️ **PLENTI**<br>Hyper-Scale E-Commerce Superapp | |
-|-------------------------------------------------|--|
-
+| 🏙️ **PLENTI**<br>Hyper-Scale E-Commerce Superapp                            |                                            |
+|-----------------------------------------------------------------------------|--------------------------------------------|
+| A colossal Spring Boot + Flutter ecosystem handling 50,000+ SKUs. Features: |                                            |
    
 
 
