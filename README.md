@@ -46,6 +46,36 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+🏙️ **BOOKSTORE MANAGER**  
+*Enterprise Book Inventory & Search System*
+
+A robust Java-based bookstore application designed to manage book inventory and provide fast, intuitive title searches. Built with a solid object-oriented architecture and relational database support.
+
+---
+
+### ✨ Features
+
+- 📚 Complete book inventory management (CRUD)
+- 🔎 Fast search by title and keywords
+- 🗄️ Persistent data storage with MySQL & Hibernate
+- 🧱 Object-Oriented design with clean domain modeling
+- 🖥️ Desktop interface built with Java Swing
+- 🌐 Web technologies integration (HTML, CSS, JavaScript)
+- 🔐 Reliable relational database structure
+
+---
+
+### 🛠️ Tech Stack
+
+- **Backend:** Java, Hibernate (ORM)
+- **Database:** MySQL (Relational Database)
+- **Frontend:** HTML, CSS, JavaScript
+- **Desktop UI:** Java Swing
+- **Concepts:** Object-Oriented Programming (OOP), MVC, Persistence
+
+---
+<br>
+
 ## 🏗️ Software Engineering Stack
 
 <br>
