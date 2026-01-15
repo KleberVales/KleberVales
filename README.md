@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-| 🏙️ **PLENTI**<br><br>_Hyper-Scale E-Commerce Superapp_<br><br>A colossal Spring Boot + Flutter ecosystem handling 50,000+ SKUs.<br><br>🛒 Real-time cart synchronization across devices<br>📦 Distributed inventory management | |
+| 🏙️ **PLENTI**<br>Hyper-Scale E-Commerce Superapp<br>──────────────────────────────<br>A colossal Spring Boot + Flutter ecosystem handling 50,000+ SKUs.<br><br>**Features:**<br>🛒 Real-time cart synchronization across devices<br>📦 Distributed inventory management | |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--|
 
 
