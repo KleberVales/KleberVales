@@ -46,22 +46,13 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-┌──────────────────────────────────────────────────────────────┐
-│ 📚 BOOKSTORE MANAGER                                         │
-│ Enterprise Book Inventory & Search System                    │
-│--------------------------------------------------------------|
-│ A robust Java-based bookstore application designed to manage │
-│ book inventory and provide fast and efficient title searches.│
-│ Built with object-oriented principles and relational data.   │
-│                                                              │
-│ Features:                                                    │
-│ 📖 Book inventory management (CRUD)                          │
-│ 🔍 Search books by title and keywords                        │
-│ 🗄️ Persistent storage with relational database               │
-│ 🧱 Object-Oriented architecture                              │
-│ 🖥️ Desktop interface with Java Swing                         │
-│ 🌐 Web layer using HTML, CSS and JavaScript                  │
-└──────────────────────────────────────────────────────────────┘
+| 🏙️ **BOOKSTORE MANAGER** | |
+|-------------------------|-----------------------------|
+| **Category** | Enterprise Book Inventory & Search System |
+| **Description** | Robust Java-based bookstore application designed to manage book inventory and provide fast, efficient title searches using a relational database and object-oriented architecture. |
+| **Core Features** | 📚 Inventory management (CRUD)<br>🔍 Search books by title and keywords<br>🗄️ Persistent storage with MySQL & Hibernate<br>🧱 Clean Object-Oriented design<br>🖥️ Desktop UI with Java Swing<br>🌐 Web layer with HTML, CSS & JavaScript |
+| **Tech Stack** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Swing](https://img.shields.io/badge/Java%20Swing-007396?style=flat-square&logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
 
 
 ---
