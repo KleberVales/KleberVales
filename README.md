@@ -46,12 +46,12 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-┌──────────────────────────────────────────────────────────────┐\
-│ 📚 BOOKSTORE MANAGER                                         │\
-│ Enterprise Book Inventory & Search System                    │\
-│                                                              │\
-│ A robust Java-based bookstore application designed to manage │\
-│ book inventory and provide fast and efficient title searches.│\
+┌──────────────────────────────────────────────────────────────┐
+│ 📚 BOOKSTORE MANAGER                                         │
+│ Enterprise Book Inventory & Search System                    │
+│--------------------------------------------------------------|
+│ A robust Java-based bookstore application designed to manage │
+│ book inventory and provide fast and efficient title searches.│
 │ Built with object-oriented principles and relational data.   │
 │                                                              │
 │ Features:                                                    │
