@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
 
+```html
 <table style="table-layout: fixed;">
   <tr>
     <td align="center" style="width:160px; height:160px; padding:10px;">
@@ -70,6 +71,8 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
 </table>
+```
+          
 
 <br>
 
