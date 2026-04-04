@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
     <th><div style="font-size:50px; text-align:center;">🏅</div></th>
   </tr>
   <tr>
-    <td align="center">Bachelor's Degree in Computer Science</td>
+    <td align="center">OCI 2025 – Generative AI Professional</td>
     <td align="center"> OCI 2025 – DevOps Professional</td>
   </tr>
 </table>
