@@ -61,8 +61,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td align="center">OCI 2025 – DevOps Professional</td>
-    <td align="center">MTA – Software Development Fundamentals</td>
-    <td align="center">Scrum Fundamentals Certified (SFC™)</td>
+    <td align="center">OCI 2025 – Generative AI Professional</td>
   </tr>
 </table>
           
