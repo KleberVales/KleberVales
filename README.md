@@ -40,7 +40,36 @@ You can click the Preview link to take a look at your changes.
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
 
-<div style="width:150px; height:150px; display:flex; flex-direction:column; justify-content:center; align-items:center; border:1px solid #ddd; border-radius:10px;">
+<table style="table-layout: fixed;">
+  <tr>
+    <td align="center" style="width:160px; height:160px; padding:10px;">
+      <div style="width:100%; height:100%; display:flex; flex-direction:column; justify-content:center; align-items:center; border:1px solid #ddd; border-radius:10px;">
+        <div style="font-size:40px;">🏅</div>
+        <div style="text-align:center; font-size:13px; line-height:1.2;">
+          OCA – Java SE 7 Programmer
+        </div>
+      </div>
+    </td>
+
+    <td align="center" style="width:160px; height:160px; padding:10px;">
+      <div style="width:100%; height:100%; display:flex; flex-direction:column; justify-content:center; align-items:center; border:1px solid #ddd; border-radius:10px;">
+        <div style="font-size:40px;">🏅</div>
+        <div style="text-align:center; font-size:13px; line-height:1.2;">
+          MTA – Software Development Fundamentals
+        </div>
+      </div>
+    </td>
+
+    <td align="center" style="width:160px; height:160px; padding:10px;">
+      <div style="width:100%; height:100%; display:flex; flex-direction:column; justify-content:center; align-items:center; border:1px solid #ddd; border-radius:10px;">
+        <div style="font-size:40px;">🏅</div>
+        <div style="text-align:center; font-size:13px; line-height:1.2;">
+          Scrum Fundamentals Certified (SFC™)
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
