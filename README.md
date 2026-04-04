@@ -38,39 +38,13 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-| 🥈 | 🥈 | 🥈 |
+| <div style="text-align: center;">
+  <div style="font-size: 50px;">🏅</div>
+  <div>Oracle Certified Associate – Java SE 7 Programmer</div>
+</div> | 🥈 | 🥈 |
 |----|----|----|
 | OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™) |
 
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-  <div style="text-align: center; width: 200px;">
-    <div style="font-size: 40px;">🥈</div>
-    <div>Oracle Certified Associate – Java SE 7 Programmer</div>
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <div style="font-size: 40px;">🥈</div>
-    <div>Microsoft Technology Associate – Software Development Fundamentals</div>
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <div style="font-size: 40px;">🥈</div>
-    <div>Scrum Fundamentals Certified (SFC™)</div>
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <div style="font-size: 40px;">🥇</div>
-    <div>Oracle Cloud Infrastructure 2025 – DevOps Professional</div>
-  </div>
-
-  <div style="text-align: center; width: 200px;">
-    <div style="font-size: 40px;">🥇</div>
-    <div>Oracle Cloud Infrastructure 2025 – Generative AI Professional</div>
-  </div>
-
-</div>
 
 
 🎓 **Bachelor's Degree in Computer Science**  
