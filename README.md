@@ -42,9 +42,9 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
-    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
-    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
+    <th><div style="font-size:100px; text-align:center;">🏅</div></th>
+    <th><div style="font-size:100px; text-align:center;">🏅</div></th>
+    <th><div style="font-size:100px; text-align:center;">🏅</div></th>
   </tr>
   <tr>
     <td align="center">OCA – Java SE 7 Programmer</td>
