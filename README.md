@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 | 🥈 | 🥈 | 🥈 |
 |----|----|----|
-| Oracle Certified Associate – Java SE 7 Programmer | Microsoft Technology Associate – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™) |
+| OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™) |
 
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
