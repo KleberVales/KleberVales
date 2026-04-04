@@ -38,12 +38,18 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-| <div style="text-align: center;">
-  <div style="font-size: 50px;">🏅</div>
-  <div>Oracle Certified Associate – Java SE 7 Programmer</div>
-</div> | 🥈 | 🥈 |
-|----|----|----|
-| OCA – Java SE 7 Programmer | MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™) |
+<table>
+  <tr>
+    <th><div style="font-size:40px;">🏅</div></th>
+    <th><div style="font-size:40px;">🏅</div></th>
+    <th><div style="font-size:40px;">🏅</div></th>
+  </tr>
+  <tr>
+    <td>OCA – Java SE 7 Programmer</td>
+    <td>MTA – Software Development Fundamentals</td>
+    <td>Scrum Fundamentals Certified (SFC™)</td>
+  </tr>
+</table>
 
 
 
