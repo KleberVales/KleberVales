@@ -52,6 +52,19 @@ You can click the Preview link to take a look at your changes.
     <td align="center">Scrum Fundamentals Certified (SFC™)</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
+    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
+    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
+  </tr>
+  <tr>
+    <td align="center">OCI 2025 – DevOps Professional</td>
+    <td align="center">MTA – Software Development Fundamentals</td>
+    <td align="center">Scrum Fundamentals Certified (SFC™)</td>
+  </tr>
+</table>
           
 
 <br>
