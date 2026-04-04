@@ -42,28 +42,26 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <th><div style="font-size:100px; text-align:center;">🏅</div></th>
-    <th><div style="font-size:100px; text-align:center;">🏅</div></th>
-    <th><div style="font-size:100px; text-align:center;">🏅</div></th>
-  </tr>
-  <tr>
-    <td align="center">OCA – Java SE 7 Programmer</td>
-    <td align="center">MTA – Software Development Fundamentals</td>
-    <td align="center">Scrum Fundamentals Certified (SFC™)</td>
+    <td align="center">
+      <div style="width:150px; height:150px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
+        <div style="font-size:40px;">🏅</div>
+        <div>OCA – Java SE 7 Programmer</div>
+      </div>
+    </td>
+    <td align="center">
+      <div style="width:150px; height:150px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
+        <div style="font-size:40px;">🏅</div>
+        <div>MTA – Software Development Fundamentals</div>
+      </div>
+    </td>
+    <td align="center">
+      <div style="width:150px; height:150px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
+        <div style="font-size:40px;">🏅</div>
+        <div>Scrum Fundamentals Certified (SFC™)</div>
+      </div>
+    </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
-    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
-  </tr>
-  <tr>
-    <td align="center">OCI 2025 – Generative AI Professional</td>
-    <td align="center"> OCI 2025 – DevOps Professional</td>
-  </tr>
-</table>
-
 
 <br>
 
