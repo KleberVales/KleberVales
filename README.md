@@ -43,19 +43,19 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td align="center">
-      <div style="width:150px; height:150px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
+      <div style="width:150px; height:350px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
         <div style="font-size:40px;">🏅</div>
         <div>OCA – Java SE 7 Programmer</div>
       </div>
     </td>
     <td align="center">
-      <div style="width:150px; height:150px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
+      <div style="width:150px; height:350px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
         <div style="font-size:40px;">🏅</div>
         <div>MTA – Software Development Fundamentals</div>
       </div>
     </td>
     <td align="center">
-      <div style="width:150px; height:150px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
+      <div style="width:150px; height:350px; display:flex; flex-direction:column; justify-content:center; align-items:center;">
         <div style="font-size:40px;">🏅</div>
         <div>Scrum Fundamentals Certified (SFC™)</div>
       </div>
