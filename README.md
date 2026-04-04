@@ -51,6 +51,17 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
+    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
+  </tr>
+  <tr>
+    <td align="center">Bachelor's Degree in Computer Science</td>
+    <td align="center">MTA – Software Development Fundamentals</td>
+  </tr>
+</table>
+
 
 
 🎓 **Bachelor's Degree in Computer Science**  
