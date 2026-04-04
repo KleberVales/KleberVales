@@ -40,11 +40,7 @@ You can click the Preview link to take a look at your changes.
 🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
 
-      <div style="width:150px; height:350px;">
-        <div style="font-size:40px;">🏅</div>
-        <div>OCA – Java SE 7 Programmer</div>
-      </div>
-   
+<div style="width:150px; height:150px; display:flex; flex-direction:column; justify-content:center; align-items:center; border:1px solid #ddd; border-radius:10px;">
 
 <br>
 
