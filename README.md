@@ -61,8 +61,8 @@ Welcome to my programming portfolio. Feel free to take a look at my projects.
     <th><div style="font-size:50px; text-align:center;">🏅</div></th>
   </tr>
   <tr>
-    <td align="center">OCI – DevOps Professional</td>
-    <td align="center">OCI – Generative AI Professional</td>
+    <td align="center">OCI  – DevOps Professional</td>
+    <td align="center">OCI 2025 – Generative AI Professional</td>
     <td align="center">Oracle Agentic AI Foundations Associate</td>
   </tr>
 </table>
