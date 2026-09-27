@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="justify">
-👋 Hello, how are you? I am a software engineer with over 10 years of experience building systems that follow good programming practices. I hold a postgraduate degree in software development, along with courses in various areas of technology and certifications. I have worked on projects involving data collection, automation, and embedded devices. I am always striving to be my best, improve my skills, and contribute to building good things.
+👋 Hello, a litle about me, I am a software engineer with over 10 years of experience building systems that follow good programming practices. I hold a postgraduate degree in software development, along with courses in various areas of technology and certifications. I have worked on projects involving data collection, automation, and embedded devices. I am always striving to be my best, improve my skills, and contribute to building good things.
 
 Welcome to my programming portfolio. Feel free to take a look at my projects.
 </p>
