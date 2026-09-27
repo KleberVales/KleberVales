@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 Welcome to my programming portfolio. Feel free to take a look at my projects.
 </p>
  
-🎓 **Bachelor's Degree in Computer Science** 👉 🎓 **MBA in Web Software Development**
+🎓 **Bachelor's Degree in Computer Science** ➡ 🎓 **MBA in Web Software Development**
 
 <table>
   <tr>
