@@ -66,6 +66,15 @@ Welcome to my programming portfolio. Feel free to take a look at my projects.
     <td align="center">Oracle Agentic AI Foundations Associate</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th><div style="font-size:50px; text-align:center;">🏅</div></th>
+  </tr>
+  <tr>
+    <td align="center">OCI AI Foundations Associate</td>
+  </tr>
+</table>
           
 
 <br>
