@@ -43,15 +43,15 @@ Welcome to my programming portfolio. Feel free to take a look at my projects.
 
 | 🏅 | 🏅 | 🏅 |
 |:---:|:---:|:---:|
-|&emsp;&emsp;OCA – Java SE 7 Programmer&emsp;&ensp;| MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™)&emsp;&ensp; |
+|&emsp;&emsp;OCA – Java SE 7 Programmer&emsp;&ensp;&emsp;| MTA – Software Development Fundamentals | Scrum Fundamentals Certified (SFC™)&emsp;&ensp; |
 
 | 🏅 | 🏅 | 🏅 |
 |:---:|:---:|:---:|
-| &emsp;OCI 2025 – DevOps Professional&emsp;|&emsp; OCI 2025 – Generative AI Professional&emsp;&emsp; | Oracle Agentic AI Foundations Associate |
+| &emsp;OCI 2025 – DevOps Professional&emsp;&emsp;|&emsp; OCI 2025 – Generative AI Professional&emsp;&emsp; | Oracle Agentic AI Foundations Associate |
 
 | 🏅 | 
 |:---:|
-|&emsp;&emsp; OCI AI Foundations Associate &ensp; | 
+|&emsp;&emsp;OCI AI Foundations Associate &ensp;&emsp;| 
           
 
 <br>
