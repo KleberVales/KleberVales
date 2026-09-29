@@ -47,7 +47,7 @@ Welcome to my programming portfolio. Feel free to take a look at my projects.
 
 | 🏅 | 🏅 | 🏅 |
 |:---:|:---:|:---:|
-|&emsp;OCI 2025 – DevOps Professional&emsp;| OCI 2025 – Generative AI Professional&emsp;&emsp; | Oracle Agentic AI Foundations Associate |
+|&emsp;OCI 2025 – DevOps Professional&emsp;| OCI 2025 – Generative AI Professional&emsp;&emsp;&emsp;| Oracle Agentic AI Foundations Associate |
 
 | 🏅 | 
 |:---:|
