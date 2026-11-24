@@ -51,7 +51,7 @@ Welcome to my programming portfolio. Feel free to take a look at my projects.
 
 | 🏅 |  🏅 |
 |:---:|:---:|
-|&emsp;OCI AI Foundations Associate &ensp;&emsp;&ensp;| OCI Architect Associated |
+|&emsp;OCI AI Foundations Associate &ensp;&emsp;&ensp;| OCI Architect Associate |
           
 
 <br>
